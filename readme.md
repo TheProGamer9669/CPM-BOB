@@ -3,9 +3,14 @@ Since it is a CP/M based OS and I am handling the BIOS and file system you can g
 CP/M-BOB is an Operating system for the BOB16pp CPU, the "pp" bit stands for ++ 
 as it is an extention of the original BOB16 CPU made by this guy on youtube: https://www.youtube.com/@misterbob360
 
+If you are wondering what CP/M is here is the wikipedia page for it:
+https://en.wikipedia.org/wiki/CP/M
+
 I decided to use the CP/M style of operating system for a couple reasons:
 * Its "simple".
-* I have 3 books on CP/M from the 70s and 80s.
+* I have a couple books on CP/M from the 70s and 80s.
+  * Inside CP/M A Guide for Users and Programmers by David E. Cortesi
+  * The CP/M handbook with mp/m by Rodnay zaks
 
 Now I do have a couple things to say **before** you judge me:
 * I have no experience with git or markdown.
