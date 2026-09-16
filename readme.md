@@ -10,3 +10,7 @@ I decided to use the CP/M style of operating system for a couple reasons:
 Now I do have a couple things to say **before** you judge me:
 * I have no experience with git or markdown.
 * I know I am horrible at C.
+
+The following are the links to the BOB-16++ and the Original BOB-16:
+BOB-16++ https://github.com/yu34567890/bob16pp
+BOB-16 https://github.com/somerandomviolinkid/bob16
