@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/CP/M
 
 I decided to use the CP/M style of operating system for a couple reasons:
 * Its "simple".
-* I have a couple books on CP/M from the 70s and 80s.
+* I have a couple books on CP/M from the 80s.
   * Inside CP/M A Guide for Users and Programmers by David E. Cortesi
   * The CP/M handbook with mp/m by Rodnay zaks
 
